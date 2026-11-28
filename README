@@ -6,5 +6,5 @@ Base
     https://git.0x0f.dev/movo987/linux-libre-zen-bore.git
 
 Layout
-    config                    kernel configuration
+    defconfig                 kernel configuration
     README                    this file
